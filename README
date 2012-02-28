@@ -1,1 +1,2 @@
-A lesson from the Head First Rails book about scaffolding to create the CRUD options.  An app for creating, reading, editing, and deleting tickets and events into a SQLite3 database.
+A lesson from the Head First Rails book about scaffolding to create the CRUD options.  An app for creating, 
+reading, editing, and deleting tickets and events into a SQLite3 database.
