@@ -1,0 +1,2804 @@
+
+
+Started GET "/tickets/1/edit" for 127.0.0.1 at 2012-02-19 21:56:39 -0500
+
+ActionController::RoutingError (No route matches [GET] "/tickets/1/edit"):
+  actionpack (3.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.1) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.1) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.1) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.1) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.1) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.1) lib/action_dispatch/middleware/static.rb:53:in `call'
+  railties (3.2.1) lib/rails/engine.rb:479:in `call'
+  railties (3.2.1) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.1) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+  Rendered C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (60.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-02-19 21:56:43 -0500
+Served asset /rails.png - 304 Not Modified (44ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-19 21:56:44 -0500
+
+ActionController::RoutingError (No route matches [GET] "/tickets"):
+  actionpack (3.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.1) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.1) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.1) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.1) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.1) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.1) lib/action_dispatch/middleware/static.rb:53:in `call'
+  railties (3.2.1) lib/rails/engine.rb:479:in `call'
+  railties (3.2.1) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.1) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+  Rendered C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/ticket" for 127.0.0.1 at 2012-02-19 21:56:47 -0500
+
+ActionController::RoutingError (No route matches [GET] "/ticket"):
+  actionpack (3.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.1) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.1) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.1) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.1) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.1) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.1) lib/action_dispatch/middleware/static.rb:53:in `call'
+  railties (3.2.1) lib/rails/engine.rb:479:in `call'
+  railties (3.2.1) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.1) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+  Rendered C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-19 21:56:53 -0500
+
+ActionController::RoutingError (No route matches [GET] "/tickets"):
+  actionpack (3.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.1) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.1) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.1) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.1) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.1) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.1) lib/action_dispatch/middleware/static.rb:53:in `call'
+  railties (3.2.1) lib/rails/engine.rb:479:in `call'
+  railties (3.2.1) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.1) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+  Rendered C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+  [1m[36m (0.0ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (114.0ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (88.0ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateTickets (20120220025827)
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (3.0ms)[0m  [1mCREATE TABLE "tickets" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "seat_id_seq" varchar(255), "address" text, "price_paid" decimal, "email_address" varchar(255), "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (0.0ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ('20120220025827')
+  [1m[36m (88.0ms)[0m  [1mcommit transaction[0m
+  [1m[35m (1.0ms)[0m  select sqlite_version(*)
+  [1m[36m (1.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.0ms)[0m  PRAGMA index_list("tickets")
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-19 21:59:19 -0500
+Processing by TicketsController#index as HTML
+  [1m[36mTicket Load (0.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" [0m
+  Rendered tickets/index.html.erb within layouts/application (1.0ms)
+Compiled scaffolds.css  (72ms)  (pid 4188)
+Compiled tickets.css  (2ms)  (pid 4188)
+Compiled application.css  (114ms)  (pid 4188)
+Compiled jquery.js  (11ms)  (pid 4188)
+Compiled jquery_ujs.js  (0ms)  (pid 4188)
+Compiled tickets.js  (322ms)  (pid 4188)
+Compiled application.js  (424ms)  (pid 4188)
+Completed 200 OK in 617ms (Views: 616.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 21:59:20 -0500
+Served asset /application.css - 304 Not Modified (68ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 21:59:20 -0500
+Served asset /scaffolds.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 21:59:20 -0500
+Served asset /tickets.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 21:59:20 -0500
+Served asset /jquery.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 21:59:20 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 21:59:20 -0500
+Served asset /tickets.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 21:59:20 -0500
+Served asset /application.js - 304 Not Modified (13ms)
+
+
+Started GET "/tickets/new" for 127.0.0.1 at 2012-02-19 21:59:28 -0500
+Processing by TicketsController#new as HTML
+  Rendered tickets/_form.html.erb (11.0ms)
+  Rendered tickets/new.html.erb within layouts/application (77.0ms)
+Completed 200 OK in 120ms (Views: 112.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 21:59:28 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 21:59:28 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 21:59:28 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 21:59:28 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 21:59:28 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 21:59:28 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 21:59:28 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2012-02-19 22:00:08 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eNhsPrZIKSaIjpPzls8aDMbT4me6tHSy/Djk5vQFLdw=", "ticket"=>{"name"=>"Adam Deligianis", "seat_id_seq"=>"1A", "address"=>"25121 Town Walk Drive, Hamden, CT 06518", "price_paid"=>"100", "email_address"=>"adam@example.com"}, "commit"=>"Create Ticket"}
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (102.0ms)[0m  [1mINSERT INTO "tickets" ("address", "created_at", "email_address", "name", "price_paid", "seat_id_seq", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["address", "25121 Town Walk Drive, Hamden, CT 06518"], ["created_at", Mon, 20 Feb 2012 03:00:08 UTC +00:00], ["email_address", "adam@example.com"], ["name", "Adam Deligianis"], ["price_paid", #<BigDecimal:66f9d98,'0.1E3',4(8)>], ["seat_id_seq", "1A"], ["updated_at", Mon, 20 Feb 2012 03:00:08 UTC +00:00]]
+  [1m[35m (103.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/tickets/1
+Completed 302 Found in 214ms (ActiveRecord: 205.0ms)
+
+
+Started GET "/tickets/1" for 127.0.0.1 at 2012-02-19 22:00:08 -0500
+Processing by TicketsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTicket Load (1.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered tickets/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 14ms (Views: 12.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:00:08 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:00:08 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:00:08 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:00:08 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:00:08 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:00:08 -0500
+Served asset /tickets.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:00:08 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-19 22:00:12 -0500
+Processing by TicketsController#index as HTML
+  [1m[35mTicket Load (1.0ms)[0m  SELECT "tickets".* FROM "tickets" 
+  Rendered tickets/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 13ms (Views: 11.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:00:12 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:00:12 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:00:12 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:00:12 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:00:12 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:00:12 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:00:12 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-19 22:01:31 -0500
+Processing by TicketsController#index as HTML
+  [1m[36mTicket Load (0.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" [0m
+  Rendered tickets/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 17ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:01:31 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:01:31 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:31 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:31 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:01:31 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:31 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:31 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/tickets/1" for 127.0.0.1 at 2012-02-19 22:01:33 -0500
+Processing by TicketsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mTicket Load (0.0ms)[0m  SELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered tickets/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 12ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:34 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:01:34 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:01:34 -0500
+Served asset /tickets.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:01:34 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:34 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:34 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:34 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets/1/edit" for 127.0.0.1 at 2012-02-19 22:01:37 -0500
+Processing by TicketsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTicket Load (1.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered tickets/_form.html.erb (5.0ms)
+  Rendered tickets/edit.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:01:37 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:37 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:01:37 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:37 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:01:37 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:37 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:37 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets/new" for 127.0.0.1 at 2012-02-19 22:01:40 -0500
+Processing by TicketsController#new as HTML
+  Rendered tickets/_form.html.erb (4.0ms)
+  Rendered tickets/new.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 16ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:01:40 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:01:40 -0500
+Served asset /scaffolds.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:40 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:01:40 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:40 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:40 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:01:40 -0500
+Served asset /application.js - 304 Not Modified (2ms)
+  [1m[36m (0.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateTickets (20120220025827)
+Migrating to AddPhoneToTickets (20120220030307)
+  [1m[35m (0.0ms)[0m  select sqlite_version(*)
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  ALTER TABLE "tickets" ADD "phone" varchar(255)
+  [1m[36m (0.0ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20120220030307')[0m
+  [1m[35m (114.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (0.0ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("tickets")[0m
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-19 22:06:22 -0500
+Processing by TicketsController#index as HTML
+  [1m[35mTicket Load (1.0ms)[0m  SELECT "tickets".* FROM "tickets" 
+  Rendered tickets/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 23ms (Views: 15.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:06:23 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:06:23 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:06:23 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:06:23 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:06:23 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:06:23 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:06:23 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets/1/edit" for 127.0.0.1 at 2012-02-19 22:06:27 -0500
+Processing by TicketsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTicket Load (0.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered tickets/_form.html.erb (6.0ms)
+  Rendered tickets/edit.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 22ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:06:27 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:06:27 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:06:27 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:06:27 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:06:27 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:06:27 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:06:27 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets/1/edit" for 127.0.0.1 at 2012-02-19 22:06:55 -0500
+Processing by TicketsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mTicket Load (0.0ms)[0m  SELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered tickets/_form.html.erb (6.0ms)
+  Rendered tickets/edit.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:06:56 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:06:56 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:06:56 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:06:56 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:06:56 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:06:56 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:06:56 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started PUT "/tickets/1" for 127.0.0.1 at 2012-02-19 22:07:02 -0500
+Processing by TicketsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eNhsPrZIKSaIjpPzls8aDMbT4me6tHSy/Djk5vQFLdw=", "ticket"=>{"name"=>"Adam Deligianis", "seat_id_seq"=>"1A", "address"=>"25121 Town Walk Drive, Hamden, CT 06518", "price_paid"=>"100", "email_address"=>"adam@example.com", "phone"=>"781-413-4343"}, "commit"=>"Update Ticket", "id"=>"1"}
+  [1m[36mTicket Load (0.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (1.0ms)[0m  [1mUPDATE "tickets" SET "phone" = '781-413-4343', "updated_at" = '2012-02-20 03:07:02.053366' WHERE "tickets"."id" = 1[0m
+  [1m[35m (293.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/tickets/1
+Completed 302 Found in 301ms (ActiveRecord: 294.0ms)
+
+
+Started GET "/tickets/1" for 127.0.0.1 at 2012-02-19 22:07:02 -0500
+Processing by TicketsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTicket Load (1.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered tickets/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:07:02 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:02 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:07:02 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:07:02 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:02 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:02 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:02 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets/1/edit" for 127.0.0.1 at 2012-02-19 22:07:04 -0500
+Processing by TicketsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mTicket Load (1.0ms)[0m  SELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered tickets/_form.html.erb (5.0ms)
+  Rendered tickets/edit.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 18ms (Views: 17.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:07:05 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:07:05 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:07:05 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:05 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:05 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:05 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:05 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/tickets/1" for 127.0.0.1 at 2012-02-19 22:07:06 -0500
+Processing by TicketsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTicket Load (0.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered tickets/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 13ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:07:07 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:07:07 -0500
+Served asset /tickets.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:07 -0500
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:07:07 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:07 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:07 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:07 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-19 22:07:09 -0500
+Processing by TicketsController#index as HTML
+  [1m[35mTicket Load (0.0ms)[0m  SELECT "tickets".* FROM "tickets" 
+  Rendered tickets/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 12ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:07:09 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:09 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:07:09 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:07:09 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:09 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:09 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:07:09 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+  [1m[36m (0.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateTickets (20120220025827)
+Migrating to AddPhoneToTickets (20120220030307)
+Migrating to CreateEvents (20120220031216)
+  [1m[35m (0.0ms)[0m  select sqlite_version(*)
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  CREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "artist" varchar(255), "description" text, "price_low" decimal, "price_high" decimal, "event_date" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (0.0ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20120220031216')[0m
+  [1m[35m (134.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (0.0ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("events")[0m
+  [1m[35m (0.0ms)[0m  PRAGMA index_list("tickets")
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-19 22:13:08 -0500
+Processing by TicketsController#index as HTML
+  [1m[36mTicket Load (1.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" [0m
+  Rendered tickets/index.html.erb within layouts/application (3.0ms)
+Compiled events.css  (39ms)  (pid 4188)
+Compiled application.css  (81ms)  (pid 4188)
+Compiled events.js  (217ms)  (pid 4188)
+Compiled application.js  (285ms)  (pid 4188)
+Completed 200 OK in 454ms (Views: 442.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:08 -0500
+Served asset /application.css - 304 Not Modified (20ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:08 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:08 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:08 -0500
+Served asset /events.css - 200 OK (5ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:08 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:08 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:08 -0500
+Served asset /events.js - 200 OK (3ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:08 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:08 -0500
+Served asset /application.js - 304 Not Modified (37ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-19 22:13:23 -0500
+Processing by EventsController#index as HTML
+  [1m[35mEvent Load (0.0ms)[0m  SELECT "events".* FROM "events" 
+  Rendered events/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 16ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:23 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:23 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:23 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:23 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:23 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:23 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:23 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:23 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:23 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2012-02-19 22:13:25 -0500
+Processing by EventsController#new as HTML
+  Rendered events/_form.html.erb (10.0ms)
+  Rendered events/new.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 32ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:25 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:26 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:26 -0500
+Served asset /tickets.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:26 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:26 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:26 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:26 -0500
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:26 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:26 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2012-02-19 22:13:47 -0500
+Processing by EventsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eNhsPrZIKSaIjpPzls8aDMbT4me6tHSy/Djk5vQFLdw=", "event"=>{"artist"=>"Coheed and Cambria", "description"=>"Coheed goes on tour.  Huzzah!", "price_low"=>"30", "price_high"=>"200", "event_date(1i)"=>"2012", "event_date(2i)"=>"2", "event_date(3i)"=>"20"}, "commit"=>"Create Event"}
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "events" ("artist", "created_at", "description", "event_date", "price_high", "price_low", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["artist", "Coheed and Cambria"], ["created_at", Mon, 20 Feb 2012 03:13:47 UTC +00:00], ["description", "Coheed goes on tour.  Huzzah!"], ["event_date", Mon, 20 Feb 2012], ["price_high", #<BigDecimal:642b178,'0.2E3',4(8)>], ["price_low", #<BigDecimal:642b1c0,'0.3E2',4(8)>], ["updated_at", Mon, 20 Feb 2012 03:13:47 UTC +00:00]]
+  [1m[36m (127.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/events/1
+Completed 302 Found in 135ms (ActiveRecord: 129.0ms)
+
+
+Started GET "/events/1" for 127.0.0.1 at 2012-02-19 22:13:47 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mEvent Load (1.0ms)[0m  SELECT "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered events/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 19ms (Views: 16.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:47 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:47 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:47 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:47 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:47 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:47 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:47 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:47 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:47 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-19 22:13:51 -0500
+Processing by EventsController#index as HTML
+  [1m[36mEvent Load (0.0ms)[0m  [1mSELECT "events".* FROM "events" [0m
+  Rendered events/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:51 -0500
+Served asset /events.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:51 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:51 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:13:51 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:51 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:51 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:51 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:51 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:13:51 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-19 22:21:41 -0500
+Processing by EventsController#index as HTML
+  [1m[35mEvent Load (1.0ms)[0m  SELECT "events".* FROM "events" 
+  Rendered events/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:21:41 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:21:41 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:21:41 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:21:41 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:21:41 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:21:41 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:21:41 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:21:41 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:21:41 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-19 22:22:20 -0500
+Processing by EventsController#index as HTML
+  [1m[36mEvent Load (0.0ms)[0m  [1mSELECT "events".* FROM "events" [0m
+  Rendered events/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 25ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:22:20 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:22:20 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:22:20 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:22:20 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:22:20 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:22:20 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:22:20 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:22:20 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:22:20 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-19 22:24:21 -0500
+Processing by EventsController#index as HTML
+  [1m[35mEvent Load (1.0ms)[0m  SELECT "events".* FROM "events" 
+  Rendered events/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 18ms (Views: 16.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:24:21 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:24:21 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:24:21 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:24:21 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:24:21 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:24:21 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:24:21 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:24:21 -0500
+Served asset /tickets.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:24:21 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-19 22:24:35 -0500
+Processing by EventsController#index as HTML
+  [1m[36mEvent Load (1.0ms)[0m  [1mSELECT "events".* FROM "events" [0m
+  Rendered events/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 15ms (Views: 13.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:24:35 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:24:35 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:24:35 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:24:35 -0500
+Served asset /events.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:24:35 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:24:35 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:24:35 -0500
+Served asset /events.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:24:35 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:24:35 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2012-02-19 22:25:16 -0500
+Processing by EventsController#new as HTML
+ERROR: compiling _app_views_events__form_html_erb__434427936_38890392 RAISED C:/Sites/tickets/app/views/events/_form.html.erb:27: syntax error, unexpected tSTRING_BEG, expecting ')'
+...t_buffer.append= ( f.label :to" );@output_buffer.safe_concat...
+...                               ^
+C:/Sites/tickets/app/views/events/_form.html.erb:30: syntax error, unexpected tIDENTIFIER, expecting ')'
+  <div class="field">
+                   ^
+C:/Sites/tickets/app/views/events/_form.html.erb:34: syntax error, unexpected tIDENTIFIER, expecting ')'
+  <div class="actions">
+                     ^
+C:/Sites/tickets/app/views/events/_form.html.erb:34: unterminated string meets end of file
+C:/Sites/tickets/app/views/events/_form.html.erb:34: syntax error, unexpected $end, expecting ')'
+Function body:           def _app_views_events__form_html_erb__434427936_38890392(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "events/_form";_old_output_buffer = @output_buffer;form = local_assigns[:form];;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.append=  form_for(@event) do |f| @output_buffer.safe_concat('
+');   if @event.errors.any? 
+@output_buffer.safe_concat('    <div id="error_explanation">
+      <h2>');@output_buffer.append= ( pluralize(@event.errors.count, "error") );@output_buffer.safe_concat(' prohibited this event from being saved:</h2>
+
+      <ul>
+');       @event.errors.full_messages.each do |msg| 
+@output_buffer.safe_concat('        <li>');@output_buffer.append= ( msg );@output_buffer.safe_concat('</li>
+');       end 
+@output_buffer.safe_concat('      </ul>
+    </div>
+');   end 
+@output_buffer.safe_concat('
+  <div class="field">
+    ');@output_buffer.append= ( f.label :artist );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.text_field :artist );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="field">
+    ');@output_buffer.append= ( f.label :description );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.text_area :description );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="field">
+    ');@output_buffer.append= ( f.label :prices_from );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.text_field :price_low );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="field">
+    ');@output_buffer.append= ( f.label :to" );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.text_field :price_high );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="field">
+    ');@output_buffer.append= ( f.label :event_date );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.date_select :event_date );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="actions">
+    ');@output_buffer.append= ( f.submit );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+'); end 
+@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:285:in `module_eval'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:285:in `compile'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:233:in `compile!'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:142:in `block in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:125:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:141:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/partial_renderer.rb:257:in `render_partial'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/partial_renderer.rb:230:in `block in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/partial_renderer.rb:229:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/renderer.rb:41:in `render_partial'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/helpers/rendering_helper.rb:27:in `render'
+C:/Sites/tickets/app/views/events/new.html.erb:3:in `_app_views_events_new_html_erb__121425836_38972556'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:143:in `block in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:125:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:141:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:41:in `block (2 levels) in render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:40:in `block in render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:48:in `render_with_layout'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:39:in `render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:12:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/renderer.rb:36:in `render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/renderer.rb:17:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/rendering.rb:109:in `_render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/rendering.rb:88:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/rendering.rb:16:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/benchmark.rb:310:in `realtime'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activerecord-3.2.1/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:39:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/mime_responds.rb:268:in `block in retrieve_response_from_mimes'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/mime_responds.rb:195:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/mime_responds.rb:195:in `respond_to'
+C:/Sites/tickets/app/controllers/events_controller.rb:29:in `new'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/base.rb:167:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/rendering.rb:10:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:414:in `_run__534141050__process_action__457969995__callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:405:in `__run_callback'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:81:in `run_callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/callbacks.rb:17:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/rescue.rb:29:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/params_wrapper.rb:205:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activerecord-3.2.1/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/base.rb:121:in `process'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/rendering.rb:45:in `process'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal.rb:203:in `dispatch'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal.rb:246:in `block in action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/routing/route_set.rb:66:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/routing/route_set.rb:66:in `dispatch'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/routing/route_set.rb:30:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/journey-1.0.1/lib/journey/router.rb:68:in `block in call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/journey-1.0.1/lib/journey/router.rb:56:in `each'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/journey-1.0.1/lib/journey/router.rb:56:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/routing/route_set.rb:589:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/etag.rb:23:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/conditionalget.rb:25:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/head.rb:14:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/flash.rb:242:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/session/abstract/id.rb:205:in `context'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/session/abstract/id.rb:200:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/cookies.rb:338:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activerecord-3.2.1/lib/active_record/query_cache.rb:64:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activerecord-3.2.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:443:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:405:in `_run__708559811__call__874433253__callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:405:in `__run_callback'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:81:in `run_callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/rack/logger.rb:26:in `call_app'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/rack/logger.rb:16:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/methodoverride.rb:21:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/runtime.rb:17:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/lock.rb:15:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/static.rb:53:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/engine.rb:479:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/application.rb:220:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/content_length.rb:14:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/rack/log_tailer.rb:14:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/handler/webrick.rb:59:in `service'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+  Rendered events/_form.html.erb (141.0ms)
+  Rendered events/new.html.erb within layouts/application (144.0ms)
+Completed 500 Internal Server Error in 152ms
+
+ActionView::Template::Error (C:/Sites/tickets/app/views/events/_form.html.erb:27: syntax error, unexpected tSTRING_BEG, expecting ')'
+...t_buffer.append= ( f.label :to" );@output_buffer.safe_concat...
+...                               ^
+C:/Sites/tickets/app/views/events/_form.html.erb:30: syntax error, unexpected tIDENTIFIER, expecting ')'
+  <div class="field">
+                   ^
+C:/Sites/tickets/app/views/events/_form.html.erb:34: syntax error, unexpected tIDENTIFIER, expecting ')'
+  <div class="actions">
+                     ^
+C:/Sites/tickets/app/views/events/_form.html.erb:34: unterminated string meets end of file
+C:/Sites/tickets/app/views/events/_form.html.erb:34: syntax error, unexpected $end, expecting ')'):
+    24:     <%= f.text_field :price_low %>
+    25:   </div>
+    26:   <div class="field">
+    27:     <%= f.label :to" %><br />
+    28:     <%= f.text_field :price_high %>
+    29:   </div>
+    30:   <div class="field">
+  app/views/events/new.html.erb:3:in `_app_views_events_new_html_erb__121425836_38972556'
+  app/controllers/events_controller.rb:29:in `new'
+
+
+  Rendered C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (6.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (14.0ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2012-02-19 22:25:21 -0500
+Processing by EventsController#new as HTML
+ERROR: compiling _app_views_events__form_html_erb__434427936_38890392 RAISED C:/Sites/tickets/app/views/events/_form.html.erb:27: syntax error, unexpected tSTRING_BEG, expecting ')'
+...t_buffer.append= ( f.label :to" );@output_buffer.safe_concat...
+...                               ^
+C:/Sites/tickets/app/views/events/_form.html.erb:30: syntax error, unexpected tIDENTIFIER, expecting ')'
+  <div class="field">
+                   ^
+C:/Sites/tickets/app/views/events/_form.html.erb:34: syntax error, unexpected tIDENTIFIER, expecting ')'
+  <div class="actions">
+                     ^
+C:/Sites/tickets/app/views/events/_form.html.erb:34: unterminated string meets end of file
+C:/Sites/tickets/app/views/events/_form.html.erb:34: syntax error, unexpected $end, expecting ')'
+Function body:           def _app_views_events__form_html_erb__434427936_38890392(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "events/_form";_old_output_buffer = @output_buffer;form = local_assigns[:form];;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.append=  form_for(@event) do |f| @output_buffer.safe_concat('
+');   if @event.errors.any? 
+@output_buffer.safe_concat('    <div id="error_explanation">
+      <h2>');@output_buffer.append= ( pluralize(@event.errors.count, "error") );@output_buffer.safe_concat(' prohibited this event from being saved:</h2>
+
+      <ul>
+');       @event.errors.full_messages.each do |msg| 
+@output_buffer.safe_concat('        <li>');@output_buffer.append= ( msg );@output_buffer.safe_concat('</li>
+');       end 
+@output_buffer.safe_concat('      </ul>
+    </div>
+');   end 
+@output_buffer.safe_concat('
+  <div class="field">
+    ');@output_buffer.append= ( f.label :artist );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.text_field :artist );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="field">
+    ');@output_buffer.append= ( f.label :description );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.text_area :description );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="field">
+    ');@output_buffer.append= ( f.label :prices_from );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.text_field :price_low );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="field">
+    ');@output_buffer.append= ( f.label :to" );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.text_field :price_high );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="field">
+    ');@output_buffer.append= ( f.label :event_date );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.date_select :event_date );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="actions">
+    ');@output_buffer.append= ( f.submit );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+'); end 
+@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:285:in `module_eval'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:285:in `compile'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:233:in `compile!'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:142:in `block in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:125:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:141:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/partial_renderer.rb:257:in `render_partial'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/partial_renderer.rb:230:in `block in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/partial_renderer.rb:229:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/renderer.rb:41:in `render_partial'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/helpers/rendering_helper.rb:27:in `render'
+C:/Sites/tickets/app/views/events/new.html.erb:3:in `_app_views_events_new_html_erb__121425836_38972556'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:143:in `block in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:125:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:141:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:41:in `block (2 levels) in render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:40:in `block in render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:48:in `render_with_layout'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:39:in `render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:12:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/renderer.rb:36:in `render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/renderer.rb:17:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/rendering.rb:109:in `_render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/rendering.rb:88:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/rendering.rb:16:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/benchmark.rb:310:in `realtime'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activerecord-3.2.1/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:39:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/mime_responds.rb:268:in `block in retrieve_response_from_mimes'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/mime_responds.rb:195:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/mime_responds.rb:195:in `respond_to'
+C:/Sites/tickets/app/controllers/events_controller.rb:29:in `new'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/base.rb:167:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/rendering.rb:10:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:414:in `_run__534141050__process_action__457969995__callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:405:in `__run_callback'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:81:in `run_callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/callbacks.rb:17:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/rescue.rb:29:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/params_wrapper.rb:205:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activerecord-3.2.1/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/base.rb:121:in `process'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/rendering.rb:45:in `process'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal.rb:203:in `dispatch'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal.rb:246:in `block in action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/routing/route_set.rb:66:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/routing/route_set.rb:66:in `dispatch'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/routing/route_set.rb:30:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/journey-1.0.1/lib/journey/router.rb:68:in `block in call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/journey-1.0.1/lib/journey/router.rb:56:in `each'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/journey-1.0.1/lib/journey/router.rb:56:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/routing/route_set.rb:589:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/etag.rb:23:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/conditionalget.rb:25:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/head.rb:14:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/flash.rb:242:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/session/abstract/id.rb:205:in `context'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/session/abstract/id.rb:200:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/cookies.rb:338:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activerecord-3.2.1/lib/active_record/query_cache.rb:64:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activerecord-3.2.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:443:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:405:in `_run__708559811__call__874433253__callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:405:in `__run_callback'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:81:in `run_callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/rack/logger.rb:26:in `call_app'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/rack/logger.rb:16:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/methodoverride.rb:21:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/runtime.rb:17:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/lock.rb:15:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/static.rb:53:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/engine.rb:479:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/application.rb:220:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/content_length.rb:14:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/rack/log_tailer.rb:14:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/handler/webrick.rb:59:in `service'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+  Rendered events/_form.html.erb (2.0ms)
+  Rendered events/new.html.erb within layouts/application (3.0ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (C:/Sites/tickets/app/views/events/_form.html.erb:27: syntax error, unexpected tSTRING_BEG, expecting ')'
+...t_buffer.append= ( f.label :to" );@output_buffer.safe_concat...
+...                               ^
+C:/Sites/tickets/app/views/events/_form.html.erb:30: syntax error, unexpected tIDENTIFIER, expecting ')'
+  <div class="field">
+                   ^
+C:/Sites/tickets/app/views/events/_form.html.erb:34: syntax error, unexpected tIDENTIFIER, expecting ')'
+  <div class="actions">
+                     ^
+C:/Sites/tickets/app/views/events/_form.html.erb:34: unterminated string meets end of file
+C:/Sites/tickets/app/views/events/_form.html.erb:34: syntax error, unexpected $end, expecting ')'):
+    24:     <%= f.text_field :price_low %>
+    25:   </div>
+    26:   <div class="field">
+    27:     <%= f.label :to" %><br />
+    28:     <%= f.text_field :price_high %>
+    29:   </div>
+    30:   <div class="field">
+  app/views/events/new.html.erb:3:in `_app_views_events_new_html_erb__121425836_38972556'
+  app/controllers/events_controller.rb:29:in `new'
+
+
+  Rendered C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-19 22:25:41 -0500
+Processing by EventsController#index as HTML
+  [1m[35mEvent Load (1.0ms)[0m  SELECT "events".* FROM "events" 
+  Rendered events/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:25:41 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:25:41 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:25:41 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:25:41 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:25:41 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:25:41 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:25:41 -0500
+Served asset /events.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:25:41 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:25:41 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2012-02-19 22:25:42 -0500
+Processing by EventsController#new as HTML
+ERROR: compiling _app_views_events__form_html_erb__434427936_38488140 RAISED C:/Sites/tickets/app/views/events/_form.html.erb:27: syntax error, unexpected tSTRING_BEG, expecting ')'
+...t_buffer.append= ( f.label :to" );@output_buffer.safe_concat...
+...                               ^
+C:/Sites/tickets/app/views/events/_form.html.erb:30: syntax error, unexpected tIDENTIFIER, expecting ')'
+  <div class="field">
+                   ^
+C:/Sites/tickets/app/views/events/_form.html.erb:34: syntax error, unexpected tIDENTIFIER, expecting ')'
+  <div class="actions">
+                     ^
+C:/Sites/tickets/app/views/events/_form.html.erb:34: unterminated string meets end of file
+C:/Sites/tickets/app/views/events/_form.html.erb:34: syntax error, unexpected $end, expecting ')'
+Function body:           def _app_views_events__form_html_erb__434427936_38488140(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "events/_form";_old_output_buffer = @output_buffer;form = local_assigns[:form];;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.append=  form_for(@event) do |f| @output_buffer.safe_concat('
+');   if @event.errors.any? 
+@output_buffer.safe_concat('    <div id="error_explanation">
+      <h2>');@output_buffer.append= ( pluralize(@event.errors.count, "error") );@output_buffer.safe_concat(' prohibited this event from being saved:</h2>
+
+      <ul>
+');       @event.errors.full_messages.each do |msg| 
+@output_buffer.safe_concat('        <li>');@output_buffer.append= ( msg );@output_buffer.safe_concat('</li>
+');       end 
+@output_buffer.safe_concat('      </ul>
+    </div>
+');   end 
+@output_buffer.safe_concat('
+  <div class="field">
+    ');@output_buffer.append= ( f.label :artist );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.text_field :artist );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="field">
+    ');@output_buffer.append= ( f.label :description );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.text_area :description );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="field">
+    ');@output_buffer.append= ( f.label :prices_from );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.text_field :price_low );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="field">
+    ');@output_buffer.append= ( f.label :to" );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.text_field :price_high );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="field">
+    ');@output_buffer.append= ( f.label :event_date );@output_buffer.safe_concat('<br />
+    ');@output_buffer.append= ( f.date_select :event_date );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+  <div class="actions">
+    ');@output_buffer.append= ( f.submit );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  </div>
+'); end 
+@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:285:in `module_eval'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:285:in `compile'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:233:in `compile!'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:142:in `block in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:125:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:141:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/partial_renderer.rb:257:in `render_partial'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/partial_renderer.rb:230:in `block in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/partial_renderer.rb:229:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/renderer.rb:41:in `render_partial'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/helpers/rendering_helper.rb:27:in `render'
+C:/Sites/tickets/app/views/events/new.html.erb:3:in `_app_views_events_new_html_erb__121425836_38972556'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:143:in `block in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:125:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/template.rb:141:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:41:in `block (2 levels) in render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:40:in `block in render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:48:in `render_with_layout'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:39:in `render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/template_renderer.rb:12:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/renderer.rb:36:in `render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_view/renderer/renderer.rb:17:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/rendering.rb:109:in `_render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/rendering.rb:88:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/rendering.rb:16:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/benchmark.rb:310:in `realtime'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activerecord-3.2.1/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:39:in `render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/mime_responds.rb:268:in `block in retrieve_response_from_mimes'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/mime_responds.rb:195:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/mime_responds.rb:195:in `respond_to'
+C:/Sites/tickets/app/controllers/events_controller.rb:29:in `new'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/base.rb:167:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/rendering.rb:10:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:414:in `_run__534141050__process_action__457969995__callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:405:in `__run_callback'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:81:in `run_callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/callbacks.rb:17:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/rescue.rb:29:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `block in instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/notifications.rb:123:in `instrument'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/params_wrapper.rb:205:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activerecord-3.2.1/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/base.rb:121:in `process'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/abstract_controller/rendering.rb:45:in `process'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal.rb:203:in `dispatch'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_controller/metal.rb:246:in `block in action'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/routing/route_set.rb:66:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/routing/route_set.rb:66:in `dispatch'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/routing/route_set.rb:30:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/journey-1.0.1/lib/journey/router.rb:68:in `block in call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/journey-1.0.1/lib/journey/router.rb:56:in `each'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/journey-1.0.1/lib/journey/router.rb:56:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/routing/route_set.rb:589:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/etag.rb:23:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/conditionalget.rb:25:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/head.rb:14:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/flash.rb:242:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/session/abstract/id.rb:205:in `context'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/session/abstract/id.rb:200:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/cookies.rb:338:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activerecord-3.2.1/lib/active_record/query_cache.rb:64:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activerecord-3.2.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:443:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:405:in `_run__708559811__call__874433253__callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:405:in `__run_callback'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/callbacks.rb:81:in `run_callbacks'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/rack/logger.rb:26:in `call_app'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/rack/logger.rb:16:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/methodoverride.rb:21:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/runtime.rb:17:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/activesupport-3.2.1/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/lock.rb:15:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/static.rb:53:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/engine.rb:479:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/application.rb:220:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/content_length.rb:14:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/railties-3.2.1/lib/rails/rack/log_tailer.rb:14:in `call'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/rack-1.4.1/lib/rack/handler/webrick.rb:59:in `service'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+C:/RailsInstaller/Ruby1.9.2/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+  Rendered events/_form.html.erb (1.0ms)
+  Rendered events/new.html.erb within layouts/application (4.0ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (C:/Sites/tickets/app/views/events/_form.html.erb:27: syntax error, unexpected tSTRING_BEG, expecting ')'
+...t_buffer.append= ( f.label :to" );@output_buffer.safe_concat...
+...                               ^
+C:/Sites/tickets/app/views/events/_form.html.erb:30: syntax error, unexpected tIDENTIFIER, expecting ')'
+  <div class="field">
+                   ^
+C:/Sites/tickets/app/views/events/_form.html.erb:34: syntax error, unexpected tIDENTIFIER, expecting ')'
+  <div class="actions">
+                     ^
+C:/Sites/tickets/app/views/events/_form.html.erb:34: unterminated string meets end of file
+C:/Sites/tickets/app/views/events/_form.html.erb:34: syntax error, unexpected $end, expecting ')'):
+    24:     <%= f.text_field :price_low %>
+    25:   </div>
+    26:   <div class="field">
+    27:     <%= f.label :to" %><br />
+    28:     <%= f.text_field :price_high %>
+    29:   </div>
+    30:   <div class="field">
+  app/views/events/new.html.erb:3:in `_app_views_events_new_html_erb__121425836_38972556'
+  app/controllers/events_controller.rb:29:in `new'
+
+
+  Rendered C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (6.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.2/lib/ruby/gems/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.0ms)
+
+
+Started GET "/events/new" for 127.0.0.1 at 2012-02-19 22:25:56 -0500
+Processing by EventsController#new as HTML
+  Rendered events/_form.html.erb (30.0ms)
+  Rendered events/new.html.erb within layouts/application (32.0ms)
+Completed 200 OK in 44ms (Views: 43.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:25:56 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:25:56 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:25:56 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:25:56 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:25:56 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:25:56 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:25:56 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:25:56 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:25:56 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2012-02-19 22:26:18 -0500
+Processing by EventsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eNhsPrZIKSaIjpPzls8aDMbT4me6tHSy/Djk5vQFLdw=", "event"=>{"artist"=>"Brand New", "description"=>"Brand new likes pugs", "price_low"=>"15.50", "price_high"=>"120.25", "event_date(1i)"=>"2013", "event_date(2i)"=>"9", "event_date(3i)"=>"20"}, "commit"=>"Create Event"}
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "events" ("artist", "created_at", "description", "event_date", "price_high", "price_low", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["artist", "Brand New"], ["created_at", Mon, 20 Feb 2012 03:26:18 UTC +00:00], ["description", "Brand new likes pugs"], ["event_date", Fri, 20 Sep 2013], ["price_high", #<BigDecimal:66f4f08,'0.12025E3',8(12)>], ["price_low", #<BigDecimal:66f4f50,'0.155E2',8(8)>], ["updated_at", Mon, 20 Feb 2012 03:26:18 UTC +00:00]]
+  [1m[36m (156.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/events/2
+Completed 302 Found in 163ms (ActiveRecord: 157.0ms)
+
+
+Started GET "/events/2" for 127.0.0.1 at 2012-02-19 22:26:18 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mEvent Load (0.0ms)[0m  SELECT "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", "2"]]
+  Rendered events/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:26:18 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:26:18 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:26:18 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:26:18 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:26:18 -0500
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:26:18 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:26:18 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:26:18 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:26:18 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-19 22:26:21 -0500
+Processing by EventsController#index as HTML
+  [1m[36mEvent Load (0.0ms)[0m  [1mSELECT "events".* FROM "events" [0m
+  Rendered events/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 15ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:26:21 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:26:21 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:26:21 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:26:21 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:26:21 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:26:21 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:26:21 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:26:21 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:26:21 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-19 22:27:52 -0500
+Processing by EventsController#index as HTML
+  [1m[35mEvent Load (1.0ms)[0m  SELECT "events".* FROM "events" 
+  Rendered events/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 28ms (Views: 25.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:27:52 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:27:52 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:27:52 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:27:52 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:27:52 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:27:53 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:27:53 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:27:53 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:27:53 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-19 22:27:54 -0500
+Processing by TicketsController#index as HTML
+  [1m[36mTicket Load (0.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" [0m
+  Rendered tickets/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:27:54 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:27:54 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:27:54 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:27:54 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:27:54 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:27:54 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:27:54 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:27:54 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:27:54 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-19 22:28:37 -0500
+Processing by TicketsController#index as HTML
+  [1m[35mTicket Load (1.0ms)[0m  SELECT "tickets".* FROM "tickets" 
+  Rendered tickets/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 20ms (Views: 18.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:37 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:37 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:37 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:37 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:37 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:37 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:37 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:37 -0500
+Served asset /tickets.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:37 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-19 22:28:38 -0500
+Processing by EventsController#index as HTML
+  [1m[36mEvent Load (0.0ms)[0m  [1mSELECT "events".* FROM "events" [0m
+  Rendered events/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 17ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:39 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:39 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:39 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:39 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:39 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:39 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:39 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:39 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:39 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-19 22:28:50 -0500
+Processing by TicketsController#index as HTML
+  [1m[35mTicket Load (1.0ms)[0m  SELECT "tickets".* FROM "tickets" 
+  Rendered tickets/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 15ms (Views: 14.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:50 -0500
+Served asset /scaffolds.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:50 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:50 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:50 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:50 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:50 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:50 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:50 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:50 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets/new" for 127.0.0.1 at 2012-02-19 22:28:52 -0500
+Processing by TicketsController#new as HTML
+  Rendered tickets/_form.html.erb (5.0ms)
+  Rendered tickets/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 21ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:52 -0500
+Served asset /tickets.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:52 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:52 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:28:52 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:52 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:52 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:52 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:52 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:28:52 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2012-02-19 22:29:39 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eNhsPrZIKSaIjpPzls8aDMbT4me6tHSy/Djk5vQFLdw=", "ticket"=>{"name"=>"Natalie Paris", "seat_id_seq"=>"33E", "address"=>"200 Goober Lane, Lovertown, CT 22222", "price_paid"=>"40.50", "email_address"=>"natalie@example.com", "phone"=>"315-404-2974"}, "commit"=>"Create Ticket"}
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "tickets" ("address", "created_at", "email_address", "name", "phone", "price_paid", "seat_id_seq", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["address", "200 Goober Lane, Lovertown, CT 22222"], ["created_at", Mon, 20 Feb 2012 03:29:39 UTC +00:00], ["email_address", "natalie@example.com"], ["name", "Natalie Paris"], ["phone", "315-404-2974"], ["price_paid", #<BigDecimal:66f9360,'0.405E2',8(8)>], ["seat_id_seq", "33E"], ["updated_at", Mon, 20 Feb 2012 03:29:39 UTC +00:00]]
+  [1m[36m (131.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/tickets/2
+Completed 302 Found in 140ms (ActiveRecord: 133.0ms)
+
+
+Started GET "/tickets/2" for 127.0.0.1 at 2012-02-19 22:29:40 -0500
+Processing by TicketsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mTicket Load (1.0ms)[0m  SELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1  [["id", "2"]]
+  Rendered tickets/show.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:40 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:40 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:40 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:40 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:40 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:40 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:40 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:40 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:40 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-19 22:29:45 -0500
+Processing by TicketsController#index as HTML
+  [1m[36mTicket Load (0.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" [0m
+  Rendered tickets/index.html.erb within layouts/application (24.0ms)
+Completed 200 OK in 35ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:45 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:45 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:45 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:45 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:45 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:45 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:45 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:45 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:45 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-19 22:29:47 -0500
+Processing by EventsController#index as HTML
+  [1m[35mEvent Load (0.0ms)[0m  SELECT "events".* FROM "events" 
+  Rendered events/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 17ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:47 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:47 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:47 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:47 -0500
+Served asset /tickets.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:47 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:47 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:47 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:47 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:47 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-19 22:29:48 -0500
+Processing by TicketsController#index as HTML
+  [1m[36mTicket Load (1.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" [0m
+  Rendered tickets/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:48 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:48 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:48 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:48 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:48 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:48 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:48 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:48 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:48 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-19 22:29:50 -0500
+Processing by EventsController#index as HTML
+  [1m[35mEvent Load (0.0ms)[0m  SELECT "events".* FROM "events" 
+  Rendered events/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 18ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:50 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:50 -0500
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:50 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:50 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:29:50 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:50 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:50 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:50 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:29:50 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-19 22:40:17 -0500
+Processing by TicketsController#index as HTML
+  [1m[36mTicket Load (0.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" [0m
+  Rendered tickets/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 19ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:40:17 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:40:17 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:40:17 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:40:17 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:40:17 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:40:17 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:40:17 -0500
+Served asset /events.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:40:17 -0500
+Served asset /tickets.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:40:17 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-19 22:40:18 -0500
+Processing by EventsController#index as HTML
+  [1m[35mEvent Load (1.0ms)[0m  SELECT "events".* FROM "events" 
+  Rendered events/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-19 22:40:18 -0500
+Served asset /events.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-19 22:40:18 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-19 22:40:18 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-19 22:40:18 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-19 22:40:18 -0500
+Served asset /tickets.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-19 22:40:18 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-19 22:40:18 -0500
+Served asset /events.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-19 22:40:18 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-19 22:40:18 -0500
+Served asset /tickets.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-02-28 11:23:22 -0500
+Served asset /rails.png - 200 OK (24ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-28 11:23:27 -0500
+Processing by TicketsController#index as HTML
+  [1m[36mTicket Load (1.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" [0m
+  Rendered tickets/index.html.erb within layouts/application (114.0ms)
+Completed 200 OK in 795ms (Views: 786.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-02-28 11:23:29 -0500
+Served asset /scaffolds.css - 200 OK (3ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2012-02-28 11:23:29 -0500
+Served asset /events.css - 200 OK (3ms)
+
+
+Started GET "/assets/tickets.css?body=1" for 127.0.0.1 at 2012-02-28 11:23:29 -0500
+Served asset /tickets.css - 200 OK (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:29 -0500
+Served asset /jquery.js - 304 Not Modified (36ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-28 11:23:29 -0500
+Served asset /application.css - 304 Not Modified (10ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:29 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:29 -0500
+Served asset /events.js - 200 OK (3ms)
+
+
+Started GET "/assets/tickets.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:29 -0500
+Served asset /tickets.js - 200 OK (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:30 -0500
+Served asset /application.js - 304 Not Modified (13ms)
+
+
+Started DELETE "/tickets/1" for 127.0.0.1 at 2012-02-28 11:23:37 -0500
+Processing by TicketsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"Lw7GxsmdyBzfSDbappqTXowA4TFjwfzbVIlUkNxavGg=", "id"=>"1"}
+  [1m[35mTicket Load (1.0ms)[0m  SELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (104.0ms)[0m  DELETE FROM "tickets" WHERE "tickets"."id" = ?  [["id", 1]]
+  [1m[36m (116.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/tickets
+Completed 302 Found in 227ms (ActiveRecord: 221.0ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-28 11:23:37 -0500
+Processing by TicketsController#index as HTML
+  [1m[35mTicket Load (0.0ms)[0m  SELECT "tickets".* FROM "tickets" 
+  Rendered tickets/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 18ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-28 11:23:37 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:37 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:37 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:37 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started DELETE "/tickets/2" for 127.0.0.1 at 2012-02-28 11:23:41 -0500
+Processing by TicketsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"Lw7GxsmdyBzfSDbappqTXowA4TFjwfzbVIlUkNxavGg=", "id"=>"2"}
+  [1m[36mTicket Load (1.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1[0m  [["id", "2"]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (1.0ms)[0m  [1mDELETE FROM "tickets" WHERE "tickets"."id" = ?[0m  [["id", 2]]
+  [1m[35m (126.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/tickets
+Completed 302 Found in 130ms (ActiveRecord: 128.0ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-28 11:23:41 -0500
+Processing by TicketsController#index as HTML
+  [1m[36mTicket Load (0.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" [0m
+  Rendered tickets/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 12ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-28 11:23:42 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:42 -0500
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:42 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:42 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-28 11:23:44 -0500
+Processing by EventsController#index as HTML
+  [1m[35mEvent Load (1.0ms)[0m  SELECT "events".* FROM "events" 
+  Rendered events/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 62ms (Views: 54.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:45 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-28 11:23:45 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:45 -0500
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:45 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/events/2/edit" for 127.0.0.1 at 2012-02-28 11:23:53 -0500
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mEvent Load (0.0ms)[0m  [1mSELECT "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", "2"]]
+  Rendered events/_form.html.erb (54.0ms)
+  Rendered events/edit.html.erb within layouts/application (222.0ms)
+Completed 200 OK in 238ms (Views: 236.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-28 11:23:53 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:53 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:53 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-28 11:23:53 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started PUT "/events/2" for 127.0.0.1 at 2012-02-28 11:24:11 -0500
+Processing by EventsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Lw7GxsmdyBzfSDbappqTXowA4TFjwfzbVIlUkNxavGg=", "event"=>{"artist"=>"Brand New", "description"=>"Brand New plays good songs", "price_low"=>"15.5", "price_high"=>"120.25", "event_date(1i)"=>"2013", "event_date(2i)"=>"9", "event_date(3i)"=>"20"}, "commit"=>"Update Event", "id"=>"2"}
+  [1m[35mEvent Load (0.0ms)[0m  SELECT "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", "2"]]
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (2.0ms)[0m  UPDATE "events" SET "description" = 'Brand New plays good songs', "updated_at" = '2012-02-28 16:24:11.319633' WHERE "events"."id" = 2
+  [1m[36m (93.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/events/2
+Completed 302 Found in 387ms (ActiveRecord: 96.0ms)
+
+
+Started GET "/events/2" for 127.0.0.1 at 2012-02-28 11:24:11 -0500
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mEvent Load (0.0ms)[0m  SELECT "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", "2"]]
+  Rendered events/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-28 11:24:11 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-28 11:24:11 -0500
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-28 11:24:11 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-28 11:24:11 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2012-02-28 11:24:14 -0500
+Processing by EventsController#index as HTML
+  [1m[36mEvent Load (0.0ms)[0m  [1mSELECT "events".* FROM "events" [0m
+  Rendered events/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 15ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-28 11:24:14 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-28 11:24:14 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-28 11:24:14 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-28 11:24:14 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-28 11:24:19 -0500
+Processing by TicketsController#index as HTML
+  [1m[35mTicket Load (1.0ms)[0m  SELECT "tickets".* FROM "tickets" 
+  Rendered tickets/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-28 11:24:19 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-28 11:24:19 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-28 11:24:19 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-28 11:24:19 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/tickets/new" for 127.0.0.1 at 2012-02-28 11:24:21 -0500
+Processing by TicketsController#new as HTML
+  Rendered tickets/_form.html.erb (7.0ms)
+  Rendered tickets/new.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 29ms (Views: 29.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-28 11:24:21 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-28 11:24:21 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-28 11:24:21 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-28 11:24:21 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started POST "/tickets" for 127.0.0.1 at 2012-02-28 11:25:22 -0500
+Processing by TicketsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Lw7GxsmdyBzfSDbappqTXowA4TFjwfzbVIlUkNxavGg=", "ticket"=>{"name"=>"Adam Deligianis", "seat_id_seq"=>"1A", "address"=>"1234 Evergreen Terrace, Boston, MA 06000", "price_paid"=>"60.50", "email_address"=>"adeligianis@gmail.com", "phone"=>"555-555-5555"}, "commit"=>"Create Ticket"}
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "tickets" ("address", "created_at", "email_address", "name", "phone", "price_paid", "seat_id_seq", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["address", "1234 Evergreen Terrace, Boston, MA 06000"], ["created_at", Tue, 28 Feb 2012 16:25:22 UTC +00:00], ["email_address", "adeligianis@gmail.com"], ["name", "Adam Deligianis"], ["phone", "555-555-5555"], ["price_paid", #<BigDecimal:66874f8,'0.605E2',8(8)>], ["seat_id_seq", "1A"], ["updated_at", Tue, 28 Feb 2012 16:25:22 UTC +00:00]]
+  [1m[36m (162.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/tickets/3
+Completed 302 Found in 173ms (ActiveRecord: 165.0ms)
+
+
+Started GET "/tickets/3" for 127.0.0.1 at 2012-02-28 11:25:22 -0500
+Processing by TicketsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mTicket Load (1.0ms)[0m  SELECT "tickets".* FROM "tickets" WHERE "tickets"."id" = ? LIMIT 1  [["id", "3"]]
+  Rendered tickets/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-28 11:25:22 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-28 11:25:22 -0500
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-28 11:25:22 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-28 11:25:22 -0500
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/tickets" for 127.0.0.1 at 2012-02-28 11:25:27 -0500
+Processing by TicketsController#index as HTML
+  [1m[36mTicket Load (1.0ms)[0m  [1mSELECT "tickets".* FROM "tickets" [0m
+  Rendered tickets/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 34ms (Views: 33.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-02-28 11:25:28 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-02-28 11:25:28 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-02-28 11:25:28 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-02-28 11:25:28 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
